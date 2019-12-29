@@ -6,8 +6,8 @@
 # Gympoint
 Projeto final, Gympoint, do curso GoStack 2019 da Rocketseat.
 
-O Gympoint é uma solução completa incluindo backend, website and mobile app para gerenciamento de academias. Através do website os administradores da academia podem registrar novos alunos, planos, matrículas e a responderem solcitações de ajuda dos alunos.
-Já o aplicativo de ceular é de uso do aluno para realizar checkins e enviar questões em geral relacionadas à academia.
+O Gympoint é uma solução completa incluindo backend, website and mobile app para gerenciamento de academias. Através do website os administradores da academia podem registrar novos alunos, planos, matrículas e a responderem solicitações de ajuda dos alunos.
+Já o aplicativo de celular é de uso do aluno para realizar checkins e enviar questões em geral relacionadas à academia.
 <br />Após o cadastro do aluno na academia e a criação da matricula, o mesmo recebe um email de confirmação e boas vindas com as informações referentes ao plano escolhido e dados do próprio aluno.
 <br />**OBS: a aplicação mobile foi desenvolvida e testada somente na plataforma Android 9.0 (API 28)**
 
