@@ -27,7 +27,7 @@ Para rodar o backend será necessário realizar as seguintes instalações e set
 
 Após clonar o repositório, vá para a pasta backend e instale as dependências do projeto. Dentro da pasta backend crie um arquivo chamado **.env** e dentro deste arquivo cole o conteudo do arquivo **.env.example**. Agora atribua os valores das variáveis DB_HOST, DB_USER, DB_PASS e DB_NAME referentes ao banco de dados postgres.<br />
 Para simular envio de email, preencha as variáveis MAIL_HOST, MAIL_PORT, MAIL_USER e MAIL_PASS referentes à credencial SMTP do projeto criado na conta da Mailtrap.<br />
-Por último adicione a URL da Sentry referente a chanve do cliente do projeto criado na sua conta na variável de ambiente SENTRY_DSN.
+Por último adicione a URL da Sentry referente a chave do cliente do projeto criado na sua conta na variável de ambiente SENTRY_DSN.
 
 Crie as tabelas do banco de dados
 
